@@ -1,0 +1,32 @@
+C:\Users\Aluno\Desktop\Aula 1\Aula 1\bin\Debug\Aula 1.exe.config
+C:\Users\Aluno\Desktop\Aula 1\Aula 1\bin\Debug\Aula 1.exe
+C:\Users\Aluno\Desktop\Aula 1\Aula 1\bin\Debug\Aula 1.pdb
+C:\Users\Aluno\Desktop\Aula 1\Aula 1\obj\Debug\Aula 1.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Aula 1\Aula 1\obj\Debug\Aula 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Desktop\Aula 1\Aula 1\obj\Debug\Aula_1.Form1.resources
+C:\Users\Aluno\Desktop\Aula 1\Aula 1\obj\Debug\Aula_1.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Aula 1\Aula 1\obj\Debug\Aula 1.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\Aula 1\Aula 1\obj\Debug\Aula 1.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Aula 1\Aula 1\obj\Debug\Aula 1.exe
+C:\Users\Aluno\Desktop\Aula 1\Aula 1\obj\Debug\Aula 1.pdb
+D:\DS\Aula 1\Aula 1\bin\Debug\Aula 1.exe.config
+D:\DS\Aula 1\Aula 1\bin\Debug\Aula 1.exe
+D:\DS\Aula 1\Aula 1\bin\Debug\Aula 1.pdb
+D:\DS\Aula 1\Aula 1\obj\Debug\Aula 1.csproj.AssemblyReference.cache
+D:\DS\Aula 1\Aula 1\obj\Debug\Aula_1.Form1.resources
+D:\DS\Aula 1\Aula 1\obj\Debug\Aula_1.Properties.Resources.resources
+D:\DS\Aula 1\Aula 1\obj\Debug\Aula 1.csproj.GenerateResource.cache
+D:\DS\Aula 1\Aula 1\obj\Debug\Aula 1.csproj.CoreCompileInputs.cache
+D:\DS\Aula 1\Aula 1\obj\Debug\Aula 1.exe
+D:\DS\Aula 1\Aula 1\obj\Debug\Aula 1.pdb
+D:\Aula 1\Aula 1\bin\Debug\Aula 1.exe.config
+D:\Aula 1\Aula 1\bin\Debug\Aula 1.exe
+D:\Aula 1\Aula 1\bin\Debug\Aula 1.pdb
+D:\Aula 1\Aula 1\obj\Debug\Aula 1.csproj.AssemblyReference.cache
+D:\Aula 1\Aula 1\obj\Debug\Aula 1.csproj.SuggestedBindingRedirects.cache
+D:\Aula 1\Aula 1\obj\Debug\Aula_1.Form1.resources
+D:\Aula 1\Aula 1\obj\Debug\Aula_1.Properties.Resources.resources
+D:\Aula 1\Aula 1\obj\Debug\Aula 1.csproj.GenerateResource.cache
+D:\Aula 1\Aula 1\obj\Debug\Aula 1.csproj.CoreCompileInputs.cache
+D:\Aula 1\Aula 1\obj\Debug\Aula 1.exe
+D:\Aula 1\Aula 1\obj\Debug\Aula 1.pdb
